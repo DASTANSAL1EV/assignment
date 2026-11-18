@@ -1,0 +1,33 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Сделать ДЗ по React",
+      "description": "Хуки и формы",
+      "status": false,
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "title": "Посмотреть сериал",
+      "description": "1 серия",
+      "status": true,
+      "priority": "middle"
+    },
+    {
+      "title": "Dastan",
+      "description": "I'm the best teacher",
+      "priority": "normal",
+      "status": false,
+      "id": "OAncNi6pWBQ"
+    },
+    {
+      "title": "mndmnc",
+      "description": "nsbw",
+      "priority": "normal",
+      "status": false,
+      "id": "rQsi8MTuSEQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
